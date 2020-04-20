@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d157c812.chunk.css",
-    "main.js": "/static/js/main.3846ed82.chunk.js",
-    "main.js.map": "/static/js/main.3846ed82.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.49516f02.js",
-    "runtime-main.js.map": "/static/js/runtime-main.49516f02.js.map",
-    "static/js/2.9359df06.chunk.js": "/static/js/2.9359df06.chunk.js",
-    "static/js/2.9359df06.chunk.js.map": "/static/js/2.9359df06.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.26bdc84bd5369fa6375943f422d76776.js": "/precache-manifest.26bdc84bd5369fa6375943f422d76776.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d157c812.chunk.css.map": "/static/css/main.d157c812.chunk.css.map",
-    "static/js/2.9359df06.chunk.js.LICENSE.txt": "/static/js/2.9359df06.chunk.js.LICENSE.txt",
-    "static/media/business.jpg": "/static/media/business.38ca2240.jpg",
-    "static/media/contacts.jpg": "/static/media/contacts.83d35906.jpg",
-    "static/media/intro.jpg": "/static/media/intro.440c21cd.jpg",
-    "static/media/nebula.jpg": "/static/media/nebula.27eb72c1.jpg"
+    "main.css": "/webpage/static/css/main.d157c812.chunk.css",
+    "main.js": "/webpage/static/js/main.54ee6c3f.chunk.js",
+    "main.js.map": "/webpage/static/js/main.54ee6c3f.chunk.js.map",
+    "runtime-main.js": "/webpage/static/js/runtime-main.4ebad5d8.js",
+    "runtime-main.js.map": "/webpage/static/js/runtime-main.4ebad5d8.js.map",
+    "static/js/2.3dbc00a2.chunk.js": "/webpage/static/js/2.3dbc00a2.chunk.js",
+    "static/js/2.3dbc00a2.chunk.js.map": "/webpage/static/js/2.3dbc00a2.chunk.js.map",
+    "index.html": "/webpage/index.html",
+    "precache-manifest.735d794a7908000a14fdb7aa452f8e2f.js": "/webpage/precache-manifest.735d794a7908000a14fdb7aa452f8e2f.js",
+    "service-worker.js": "/webpage/service-worker.js",
+    "static/css/main.d157c812.chunk.css.map": "/webpage/static/css/main.d157c812.chunk.css.map",
+    "static/js/2.3dbc00a2.chunk.js.LICENSE.txt": "/webpage/static/js/2.3dbc00a2.chunk.js.LICENSE.txt",
+    "static/media/business.jpg": "/webpage/static/media/business.38ca2240.jpg",
+    "static/media/contacts.jpg": "/webpage/static/media/contacts.83d35906.jpg",
+    "static/media/intro.jpg": "/webpage/static/media/intro.440c21cd.jpg",
+    "static/media/nebula.jpg": "/webpage/static/media/nebula.27eb72c1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49516f02.js",
-    "static/js/2.9359df06.chunk.js",
+    "static/js/runtime-main.4ebad5d8.js",
+    "static/js/2.3dbc00a2.chunk.js",
     "static/css/main.d157c812.chunk.css",
-    "static/js/main.3846ed82.chunk.js"
+    "static/js/main.54ee6c3f.chunk.js"
   ]
 }
